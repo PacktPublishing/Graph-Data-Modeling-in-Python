@@ -1,6 +1,6 @@
 # Graph Data Modeling in Python
 
-<img src="https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition/blob/main/Transformers_Rothman.png?raw=tru" alt="drawing" width="400"/>
+<img src="" alt="drawing" width="400"/>
 
 @copyright 2022, Packt Publishing, Gary Hutson and Matt Jackson<br>
 
