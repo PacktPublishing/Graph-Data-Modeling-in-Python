@@ -9,7 +9,7 @@
 
 
 ## Getting started
-
+This will teach you the tricks of the profession from two practising Graph Data Scientists. Learn how to work with graph data, to building recommendation systems using simple and more complicated similarity methods, learn how to work with database technologies such as MySQL and Memgraph. Build a social network knowledge graph and create a recommendation engine which recommends which video games you are likely to play next on the popular platform Steam. From there, we move on to how to develop reproducable graph pipelines, refactor and evolve schemas, create graph projections and learn how to debug some common errors you may see when you start working with graph data. 
 
 ## Key Features
 - Getting started with graph data modeling - including how to transition from traditional analytical approaches to graph analysis
@@ -17,29 +17,25 @@
 - Apply your knowledge to build up real world use cases, such as the creation of  social media graphs knowledge graphs
 
 ## Book Description
-
-
+Graphs are increasingly being used to power products and services we all use daily, from social media, to online shopping recommendations, and even fraud detection. A good graph data model can make all the difference to solutions and services like these, both increasing efficiency and enabling complex network analysis to uncover hidden insights in your data.
+In our book Graph Data Modelling in Python, you will learn how to design, implement and utilize a variety of graph data models, using the open-source Python libraries NetworkX and igraph. Following along with practical use cases and examples,  you’ll find out how to design the ideal graph model to support a wide range of queries and features. You’ll be guided through how to transition from traditional relational databases and tabular data, to graph data structures that allow powerful, path-based analyses. What’s more, you’ll learn how to manage a persistent graph database using Memgraph, and how to manage an evolving network model as your data needs change.
 ## What you will learn
-
+Find out how to design graph data models and schema design best practices
+Transition from relational data to graph data modeling
+Work with the best and most current graph frameworks - NetworkX and igraph in Python
+Learn how to store, query, ingest and refactor graph data
+Learn how to store your graphs in memory with Memgraph
+Build and work with projections and put them to work
+Refactor schemas and learn strategies to deal with an evolving graph data model
+Real world use case development and application of methods, such as community detection, knowledge graphs and recommendation networks
 
 # Table of Contents<br>
-# Table of Contents<br>
-1.What are Transformers?<br>
-2.Getting Started with the Architecture of the Transformer Model<br>
-3.Fine-Tuning BERT models<br>
-4.Pretraining a RoBERTa Model from Scratch<br>
-5.Downstream NLP Tasks with Transformers<br>
-6.Machine Translation with the Transformer<br>
-7.The Rise of Suprahuman Transformers with GPT-3 Engines<br>
-8.Applying Transformers to Legal and Financial Documents for AI Text Summarization<br>
-9.Matching Tokenizers and Datasets<br>
-10.Semantic Role Labeling with BERT-Based Transformers<br>
-11.Let Your Data Do the Talking: Story, Questions, and Answers<br>
-12.Detecting Customer Emotions to Make Predictions<br>
-13.Analyzing Fake News with Transformers<br>
-14.Interpreting Black Box Transformer Models<br>
-15.From NLP to Task-Agnostic Transformer Models<br>
-16.The Emergence of Transformer-Driven Copilots<br>
-Appendix I: Terminology of Transformer Models<br>
-Appendix II: Hardware Constraints for Transformer Models<br>
-And more!
+1. Introducing Graphs in the Real World<br>
+2. Working with Graph Data Models<br>
+3. Data Model Transformation - Relational to Graph databases<br>
+4. Build a Knowledge Graph 
+5. Working wih Graph Databases and Memgraph
+6. Pipeline development
+7. Refactoring and evolving schemas
+8. Perfect projections
+9. Common errors and debugging
