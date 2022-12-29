@@ -1,5 +1,4 @@
 import mysql.connector
-
 def query_mysql(query, password, host='localhost', user='root',database='steam_data'):
     ''''
     Query a MySQL database instance
