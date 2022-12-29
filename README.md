@@ -30,12 +30,12 @@ In our book Graph Data Modelling in Python, you will learn how to design, implem
 - Real world use case development and application of methods, such as community detection, knowledge graphs and recommendation networks
 
 ## Table of Contents<br>
-1. Introducing Graphs in the Real World<br>
-2. Working with Graph Data Models<br>
-3. Data Model Transformation - Relational to Graph databases<br>
-4. Build a Knowledge Graph 
-5. Working wih Graph Databases and Memgraph
-6. Pipeline development
-7. Refactoring and evolving schemas
-8. Perfect projections
-9. Common errors and debugging
+1. [Introducing Graphs in the Real World](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH01)<br>
+2. [Working with Graph Data Models](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH02)<br>
+3. [Data Model Transformation - Relational to Graph databases](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH03)<br>
+4. [Build a Knowledge Graph](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH04) 
+5. [Working wih Graph Databases and Memgraph](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH05)
+6. [Pipeline development](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH06)
+7. [Refactoring and evolving schemas](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH07)
+8. [Perfect projections](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH08)
+9. [Common errors and debugging](https://github.com/PacktPublishing/Graph-Data-Modeling-in-Python/tree/main/CH09)
