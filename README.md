@@ -29,7 +29,7 @@ Build and work with projections and put them to work
 Refactor schemas and learn strategies to deal with an evolving graph data model
 Real world use case development and application of methods, such as community detection, knowledge graphs and recommendation networks
 
-# Table of Contents<br>
+## Table of Contents<br>
 1. Introducing Graphs in the Real World<br>
 2. Working with Graph Data Models<br>
 3. Data Model Transformation - Relational to Graph databases<br>
