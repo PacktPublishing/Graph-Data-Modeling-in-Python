@@ -1,6 +1,6 @@
 # Graph Data Modeling in Python
 
-<img src="" alt="drawing" width="400"/>
+<img src="fig/graph_network.png" alt="drawing" width="400"/>
 
 @copyright 2022, Packt Publishing, Gary Hutson and Matt Jackson.<br>
 
