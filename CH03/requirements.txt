@@ -1,0 +1,3 @@
+igraph==0.9.8
+mysql-connector-python==8.0.31
+mysql-connector-python==8.0.31

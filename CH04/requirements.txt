@@ -1,0 +1,4 @@
+igraph==0.9.8
+spacy==3.4.4
+scispacy==0.5.1
+matplotlib

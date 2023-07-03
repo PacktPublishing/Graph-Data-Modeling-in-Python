@@ -1,0 +1,28 @@
+productID,name,brand,mainType,subType
+1001,WX100 In-ear Headphones,Hans,Audio,Bluetooth Headphones
+1002,WX-B210 Bluetooth Headphones,Hans,Audio,Bluetooth Headphones
+1003,Hans-3 Bluetooth Headphones,Hans,Audio,Bluetooth Headphones
+1004,J9 Bluetooth Headphones,JLB,Audio,Bluetooth Headphones
+1005,J8-I In-ear Headphones,JLB,Audio,Bluetooth Headphones
+1006,J-basics Wired Headphones,JLB,Audio,Wired Headphones
+1007,H9 Bluetooth Headphones,JLB,Audio,Bluetooth Headphones
+1008,LonX Wired Headphones (w/ built-in microphone),BRLondon,Audio,Wired Headphones
+1009,LonX Classic Headphones,BRLondon,Audio,Wired Headphones
+1010,Hans Xtend Sound Node 5L,Hans,Audio,Speakers
+1011,Hans Xtend Sound Node 3,Hans,Audio,Speakers
+1012,JLB Audiopod,JLB,Audio,Speakers
+1013,JLB Audiobase,JLB,Audio,Speakers
+1014,"60HSX 60"" Widescreen TV",Hans,Television,4K UHD Smart TV
+1015,"55HSX 55"" TV",Hans,Television,4K UHD Smart TV
+1016,"32HS 32"" TV",Hans,Television,HD Smart TV
+1017,BR-Next 40 Inch Widescreen TV,BRLondon,Television,HD Smart TV
+1018,BR-Tech Classic 32 Inch ,BRLondon,Television,HD TV
+1019,BR-Tech Classic 24 Inch ,BRLondon,Television,HD TV
+1020,"JLB 55UHD 55"" TV with Soundscape",JLB,Television,4K UHD Smart TV
+1021,"JLB 40UHD 40"" TV with Soundscape",JLB,Television,4K UHD Smart TV
+1022,J-basics 32 Inch HDTV,JLB,Television,HD TV
+1023,Consul All-in-One Wireless Laser Printer,Consul,Printer,Laser Printer
+1024,Consul All-in-One Inkjet Printer,Consul,Printer,Inkjet Printer
+1025,JLB Laser Printer w/Fax,JLB,Printer,Laser Printer
+1026,J-basics Inkjet Printer,JLB,Printer,Inkjet Printer
+1027,LonX Classic A3 Inkjet Printer,BRLondon,Printer,Inkjet Printer

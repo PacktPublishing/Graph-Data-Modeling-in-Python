@@ -1,0 +1,1 @@
+MATCH (c:Customer) DETACH DELETE c

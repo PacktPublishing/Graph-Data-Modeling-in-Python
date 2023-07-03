@@ -1,0 +1,3 @@
+https://github.com/Franck-Dernoncourt/pubmed-rct
+https://github.com/Franck-Dernoncourt/pubmed-rct/blob/master/PubMed_20k_RCT/dev.txt
+
