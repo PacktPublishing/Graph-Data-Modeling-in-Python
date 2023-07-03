@@ -5,7 +5,7 @@
 @copyright 2023, Packt Publishing, Gary Hutson and Matt Jackson.<br>
 
 Contact me for any question you have on LinkedIn: https://www.linkedin.com/in/ghutson/<br>
-[Get the book on Amazon]()
+[Get the book on Amazon](https://www.amazon.co.uk/Graph-Data-Modeling-Python-practical/dp/1804618039/ref=sr_1_1?crid=3D0FAONTDPZUY&keywords=graph+data+modelling&qid=1688413307&sprefix=graph+data+modelling%2Caps%2C74&sr=8-1)
 
 
 ## Getting started
